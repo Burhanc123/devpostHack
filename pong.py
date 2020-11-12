@@ -1,5 +1,4 @@
-#This code was edited by Remington Martinez (rmm2gq) and Burhan Chaudhry (bmc8kh)
-# Pong (Starter Code)
+
 import pygame
 import gamebox
 camera = gamebox.Camera(800,600)
